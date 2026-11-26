@@ -83,6 +83,7 @@ export default () => {
             <SectionLabel>{t('ui.aboutSection')}</SectionLabel>
             <div className={ui.list}>
                 <ListRow label="Vacuula" value={serverInfo.version} />
+                <ListRow label={t('settings.interfaceVersion')} value={__APP_VERSION__} />
                 <ListRow label={t('settings.downloadCert')} onClick={open(BASE_PATH + '/api/cert')} />
                 <ListRow label={t('settings.downloadLogs')} onClick={open(BASE_PATH + '/api/log/full?download=true')} />
                 <ListRow label={t('settings.giveFeedback')} onClick={open('https://feedback.vacuula.phma.dev/')} />

@@ -312,6 +312,7 @@
         "appSettings": "App-Einstellung",
         "appLanguage": "App-Sprache",
         "theme": "Theme",
+        "interfaceVersion": "Oberfläche",
         "style": "Stil",
         "style_menthe": "Minze",
         "style_nordique": "Nordisch",

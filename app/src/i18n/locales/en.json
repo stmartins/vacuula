@@ -314,6 +314,7 @@
         "appSettings": "App settings",
         "appLanguage": "App language",
         "theme": "Theme",
+        "interfaceVersion": "Interface",
         "style": "Style",
         "style_menthe": "Mint",
         "style_nordique": "Nordic",

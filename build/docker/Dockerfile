@@ -11,6 +11,10 @@ RUN pnpm install --frozen-lockfile
 
 COPY app/ ./
 
+# Short commit shown next to the interface version in Settings (optional).
+ARG APP_COMMIT
+ENV APP_COMMIT=$APP_COMMIT
+
 RUN pnpm vite build
 
 

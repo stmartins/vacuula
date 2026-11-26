@@ -304,6 +304,7 @@
         "appSettings": "Definições da aplicação",
         "appLanguage": "Idioma da aplicação",
         "theme": "Tema",
+        "interfaceVersion": "Interface",
         "style": "Estilo",
         "style_menthe": "Menta",
         "style_nordique": "Nórdico",
