@@ -289,8 +289,10 @@
         "demote": "Dejar de usar mapa",
         "gen4UpdateBugHint": "NOTA: modificar mapas, zonas o líneas puede desactivar las programaciones afectadas. Es algo que ocurre en el firmware del robot y estamos buscando una solución alternativa",
         "tapToPlaceZone": "Toca el mapa para colocar los puntos de la zona. Toca el primer punto, el más grande, para cerrarla.",
-        "tapToPlaceLine": "Toca el mapa para colocar los puntos de la línea y luego arrastra el panel hacia arriba para terminar.",
+        "tapToPlaceLine": "Toca el mapa para colocar los puntos de la línea y luego toca ✓ para terminarla.",
         "movingZone": "Moviendo la zona",
+        "closeZone": "Cerrar la zona",
+        "finishLine": "Terminar la línea",
         "movingLine": "Moviendo la línea"
     },
     "settings": {
